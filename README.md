@@ -18,7 +18,7 @@ This project is a simple but effective **car parking sensor system** built using
 
 ## 🔧 Components Used
 
-- Arduino Uno (or compatible board)
+- Arduino Uno 
 - Ultrasonic sensor (HC-SR04)
 - Passive buzzer
 - RGB LED (common cathode)
