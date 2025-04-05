@@ -22,8 +22,6 @@ This project is a simple but effective **car parking sensor system** built using
 - Ultrasonic sensor (HC-SR04)
 - Passive buzzer
 - RGB LED (common cathode)
-- Resistors (220Ω for each LED channel)
-- Jumper wires & breadboard
 
 ---
 
